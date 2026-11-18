@@ -38,7 +38,7 @@ public class PlayerController : MonoBehaviour
         
     }
 
-    //p[hysics and olcity
+    //physics and olcity
     void FixedUpdate()
     {
         if (jump)

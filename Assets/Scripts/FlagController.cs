@@ -11,6 +11,5 @@ public class FlagController : MonoBehaviour
             SceneController.instance.NextLevel();
         }
     }
-
 }
 
